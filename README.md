@@ -26,7 +26,7 @@ Questão: 1
 
 Questão: - 630. Course Schedule III
 <div align="center">
-    <img src="/Greed_Questions/Course Schedule III/Schedule.png" alt="Second Minimum Time to Reach Destination Screenshot" width="600">
+    <img src="./Course Schedule III/Schedule.png" alt="Second Minimum Time to Reach Destination Screenshot" width="600">
 </div>
 
 
@@ -35,7 +35,7 @@ Questão: 2
 
 Questão:2931. maximum spending after buying items
 <div align="center">
-    <img src="/Greed_Questions/maximum-spending-after-buying-items/maximumSpending.png" alt="Swim in Rising Water Screenshot" width="600">
+    <img src="./maximum-spending-after-buying-items/maximumSpending.png" alt="Swim in Rising Water Screenshot" width="600">
 </div>
 
 
