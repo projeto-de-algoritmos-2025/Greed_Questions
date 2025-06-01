@@ -13,8 +13,8 @@
 
 |Problema | Dificuldade |Vìdeo |
 | -- | -- |-- |
-| [-](-) |  Difícil|[clique aqui](-) |
-| [-](-) |  Difícil|[clique aqui](-) |
+| [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) |  Difícil|[clique aqui](https://youtu.be/Mg2VfZrjOQE) |
+| [2931. maximum spending after buying items](https://leetcode.com/problems/maximum-spending-after-buying-items/) |  Difícil|[clique aqui](https://youtu.be/k7pr_hEVZNE) |
 | - |  Difícil|[clique aqui]- |
 
 
