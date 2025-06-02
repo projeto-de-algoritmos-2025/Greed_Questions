@@ -15,7 +15,7 @@
 | -- | -- |-- |
 | [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) |  Difícil|[clique aqui](https://youtu.be/Mg2VfZrjOQE) |
 | [2931. maximum spending after buying items](https://leetcode.com/problems/maximum-spending-after-buying-items/) |  Difícil|[clique aqui](https://youtu.be/k7pr_hEVZNE) |
-| - |  Difícil|[clique aqui]- |
+| [Minimum time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) | Difícil |[clique aqui](https://youtu.be/-sFem3l0zzU) |
 
 
 ## Screenshots
@@ -39,8 +39,10 @@ Questão:2931. maximum spending after buying items
 </div>
 
 
-Questão: 3
-
+Questão 3:
+<div align="center">
+    <img src="./Minimum Time to Complete All Tasks/MinimumTime.png" alt="Minimum Time to Complete All Tasks" width="600">
+</div>
 
 Questão: 
 
